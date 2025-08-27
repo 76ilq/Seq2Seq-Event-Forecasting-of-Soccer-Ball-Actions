@@ -24,3 +24,11 @@ Macro-F1
 Top-1 Accuracy
 
 Top-3 Accuracy
+
+## 👥 Team
+
+Shouq Alsulami 
+
+Banan Almdni 
+
+Talah Almuhawwis 
