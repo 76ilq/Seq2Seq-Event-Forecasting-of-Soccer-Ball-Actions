@@ -11,11 +11,11 @@ Given a sequence of 5 past ball actions, predict the next action.
 
 ## 🏗 Models
 
-🎲 Random Baseline (uniform / weighted)
+Random Baseline (uniform / weighted)
 
-🔁 LSTM Seq2Seq
+LSTM Seq2Seq
 
-🔮 Transformer Seq2Seq
+Transformer Seq2Seq
 
 ## 📊 Evaluation
 
